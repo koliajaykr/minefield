@@ -1,0 +1,154 @@
+---
+title: "A Minefield of Research & Data Science"
+author: "Ajay Koli, Nalanda Academy - Wardha"
+format:
+  revealjs:
+    multiplex: true
+    theme: ["pp.scss"]
+    slide-number: c/t
+    incremental: true
+    transition: slide
+    logo: "image/logo.png"
+    footer: "[koliajaykr/minefield.git](<https://github.com/koliajaykr/minefield.git>)"
+    title-slide-attributes: 
+      data-background-image: image/cover1.jpg
+      data-background-size: cover
+      
+editor: visual    
+---
+
+## Minefield
+
+<blockquote class="twitter-tweet">
+
+<p lang="en" dir="ltr">
+
+when your model fails to generalize to real world data <a href="https://t.co/aoJE9ZazqB">pic.twitter.com/aoJE9ZazqB</a>
+
+</p>
+
+--- 🔥Kareem Carr 🔥 (@kareem_carr) <a href="https://twitter.com/kareem_carr/status/1544701525402034176?ref_src=twsrc%5Etfw">July 6, 2022</a>
+
+</blockquote>
+
+```{=html}
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+```
+##  {background-image="image/mind.png"}
+
+## Cultivation of Mind
+
+```{r cultivation-img, fig.align='right'}
+knitr::include_graphics("image/cultivation.jpg")
+```
+
+# RESEARCH {background-image="image/research.jpg" background-opacity="1"}
+
+## Education: The way we learn
+
+::: columns
+::: {.column width="50%"}
+-   The printing press (1430s)
+
+-   Women education (1850s)
+
+-   Internet (1960s) & Personal computer (1970s)
+:::
+
+::: {.column width="50%"}
+```{r edu-img}
+knitr::include_graphics("image/education.png")
+```
+:::
+:::
+
+## War: The way we fight
+
+::: columns
+::: {.column width="50%"}
+-   Gunpowder (10th century)
+
+-   The air-plane (1903)
+
+-   Nuclear fission (1939)
+:::
+
+::: {.column width="50%"}
+```{r war-img}
+knitr::include_graphics("image/war.jpg")
+```
+:::
+:::
+
+## Life: The way we live
+
+::: columns
+::: {.column width="50%"}
+-   Industrial Steel-making (1850s)
+
+-   Cement (2000 years ago, latest cement type 1824)
+
+-   Air-conditioning (1902)
+:::
+
+::: {.column width="50%"}
+```{r life-img}
+knitr::include_graphics("image/life.jpg")
+```
+:::
+:::
+
+## Research Profiles {background-color="#34568B"}
+
+-   Education:
+    -   Phd (Doctor of Philosophy)
+-   Work as:
+    -   Research assistant/associate
+    -   Research consultant
+    -   Professor with research
+    -   Research director
+
+# DATA SCIENCE {background-image="image/data.jpg" background-opacity="1" background-size="100% 40%" background-position="top"}
+
+## Climate Change
+
+<iframe width="960" height="615" src="https://www.youtube.com/embed/jWoCXLuTIkI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+
+</iframe>
+
+## Data + Science {background-color="#000000"}
+
+![](image/fb.png){fig-align="center"}
+
+## Data + Science {background-color="#000000"}
+
+![](image/media.jpg){fig-align="center"}
+
+## Data + Science + Tools {background-color="#000000"}
+
+![](image/pc.jpg){fig-align="center"}
+
+## Data Science Profiles {background-color="#34568B"}
+
+-   Education
+    -   Computer Science
+    -   Statistics
+    -   Research
+    -   Any degree
+-   Work as
+    -   Data analyst
+    -   Data engineer
+    -   Data scientist
+    -   Data consultant
+
+## Deep Learning Curve {background-color="#000000"}
+
+![](image/course.jpg){fig-align="center"}
+
+## 😀 Thank you!
+
+What questions do you have?
+
+```{r cat-img, out.width="40%"}
+knitr::include_graphics("image/cat.gif")
+```
