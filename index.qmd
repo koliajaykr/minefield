@@ -8,12 +8,12 @@ format:
     slide-number: c/t
     incremental: true
     transition: slide
+    chalkboard: true
     logo: "image/logo.png"
     footer: "[koliajaykr/minefield.git](<https://github.com/koliajaykr/minefield.git>)"
     title-slide-attributes: 
       data-background-image: image/cover1.jpg
       data-background-size: cover
-      
 editor: visual    
 ---
 
