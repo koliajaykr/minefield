@@ -5,7 +5,6 @@ format:
   revealjs:
     multiplex: true
     theme: ["pp.scss"]
-    slide-number: c/t
     incremental: true
     transition: slide
     chalkboard: true
@@ -80,24 +79,6 @@ knitr::include_graphics("image/war.jpg")
 :::
 :::
 
-## Life: The way we live
-
-::: columns
-::: {.column width="50%"}
--   Industrial Steel-making (1850s)
-
--   Cement (2000 years ago, latest cement type 1824)
-
--   Air-conditioning (1902)
-:::
-
-::: {.column width="50%"}
-```{r life-img}
-knitr::include_graphics("image/life.jpg")
-```
-:::
-:::
-
 ## Research Profiles {background-color="#34568B"}
 
 -   Education:
@@ -110,23 +91,35 @@ knitr::include_graphics("image/life.jpg")
 
 # DATA SCIENCE {background-image="image/data.jpg" background-opacity="1" background-size="100% 40%" background-position="top"}
 
-## Climate Change
+## Data {background-color="#000000"}
+
+![](image/media.jpg){fig-align="center"}
+
+## Data Science
 
 <iframe width="960" height="615" src="https://www.youtube.com/embed/jWoCXLuTIkI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 
 </iframe>
 
-## Data + Science {background-color="#000000"}
-
-![](image/fb.png){fig-align="center"}
-
-## Data + Science {background-color="#000000"}
-
-![](image/media.jpg){fig-align="center"}
-
 ## Data + Science + Tools {background-color="#000000"}
 
 ![](image/pc.jpg){fig-align="center"}
+
+# 🧑🏼‍🔧👨🏽‍🔧 Makers $\Leftrightarrow$ Tools $\Leftrightarrow$ 👨‍👩‍👧‍👧 Users
+
+## Food as a Tool
+
+![](image/food.jpg){fig-align="center"}
+
+## Apps as a Tool
+
+![](image/apps.jpg){fig-align="center"}
+
+## Programming Languages as a Tool
+
+![](image/langs.jpg){fig-align="center"}
+
+# 🧑🏽‍💻👨🏽‍💻Makers $\Leftrightarrow$ Tool $\Leftrightarrow$ 🧑🏽‍💻👨🏽‍💻Users
 
 ## Data Science Profiles {background-color="#34568B"}
 
@@ -144,6 +137,31 @@ knitr::include_graphics("image/life.jpg")
 ## Deep Learning Curve {background-color="#000000"}
 
 ![](image/course.jpg){fig-align="center"}
+
+## Nalanda Academy Courses
+
+![](image/poster.jpeg){fig-align="center"}
+
+------------------------------------------------------------------------
+
+::: columns
+::: {.column width="70%"}
+| Essential Courses                                    |
+|------------------------------------------------------|
+| R for Beginners                                      |
+| Dynamic Documents & Slides using R Markdown / Quarto |
+| How to use GitHub?                                   |
+| Python for Beginners                                 |
+| Data science ethics                                  |
+| Basics of Research Methods                           |
+| Statistics using R - I                               |
+| Introductory SQL PL/SQL                              |
+:::
+
+::: {.column width="30%"}
+![](image/poster.jpeg){fig-align="center" width="700"}
+:::
+:::
 
 ## 😀 Thank you!
 
