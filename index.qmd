@@ -1,20 +1,39 @@
 ---
-title: "A Minefield of Research & Data Science"
-author: "Ajay Koli, Nalanda Academy - Wardha"
+title: "The Minefield of<br>Data Science"
+author: "Ajay Koli"
 format:
   revealjs:
     multiplex: true
     theme: ["pp.scss"]
     incremental: true
     transition: slide
-    chalkboard: true
-    logo: "image/logo.png"
-    footer: "[koliajaykr/minefield.git](<https://github.com/koliajaykr/minefield.git>)"
+    chalkboard: false
+    #logo: "image/logo.png"
     title-slide-attributes: 
-      data-background-image: image/cover1.jpg
+      data-background-image: image/cover.jpg
       data-background-size: cover
-editor: visual    
+      #data-background-opacity: "0.5"
+editor: visual  
+from: markdown+emoji
 ---
+
+## Jai Bhim! :blush:
+
+::: columns
+::: {.column width="55%"}
+<br> <br>
+
+:envelope_with_arrow: ajayk.nalanda\@gmail.com
+
+:globe_with_meridians: <https://koliajay.netlify.app/>
+
+:classical_building: [School of Data Science](https://www.digitalnalanda.com/course/school-of-data-science), Nalanda Academy - Wardha
+:::
+
+::: {.column width="45%"}
+![](image/ajay.png)
+:::
+:::
 
 ## Minefield
 
@@ -26,7 +45,7 @@ when your model fails to generalize to real world data <a href="https://t.co/aoJ
 
 </p>
 
---- 🔥Kareem Carr 🔥 (@kareem_carr) <a href="https://twitter.com/kareem_carr/status/1544701525402034176?ref_src=twsrc%5Etfw">July 6, 2022</a>
+--- :fire:Kareem Carr :fire: (@kareem_carr) <a href="https://twitter.com/kareem_carr/status/1544701525402034176?ref_src=twsrc%5Etfw">July 6, 2022</a>
 
 </blockquote>
 
@@ -37,9 +56,27 @@ when your model fails to generalize to real world data <a href="https://t.co/aoJ
 
 ## Cultivation of Mind
 
-```{r cultivation-img, fig.align='right'}
-knitr::include_graphics("image/cultivation.jpg")
-```
+::: columns
+::: {.column width="50%"}
+![](image/plant.jpg){width="700"}
+:::
+
+::: {.column width="50%"}
+-   Education
+
+-   Research
+
+-   Data Science
+
+-   Ideas
+
+-   Questions
+
+-   Curiosity
+
+-   Why?
+:::
+:::
 
 # RESEARCH {background-image="image/research.jpg" background-opacity="1"}
 
@@ -81,13 +118,24 @@ knitr::include_graphics("image/war.jpg")
 
 ## Research Profiles {background-color="#34568B"}
 
+::: columns
+::: {.column width="50%"}
 -   Education:
-    -   Phd (Doctor of Philosophy)
+    -   Master's Degree
+
+    -   PhD (Doctor of Philosophy)
+:::
+
+::: {.column width="50%"}
 -   Work as:
-    -   Research assistant/associate
-    -   Research consultant
-    -   Professor with research
-    -   Research director
+    -   Research Analyst
+    -   Research Assistant
+    -   Research Associate
+    -   Research Consultant
+    -   Research Director
+    -   Professor with Research
+:::
+:::
 
 # DATA SCIENCE {background-image="image/data.jpg" background-opacity="1" background-size="100% 40%" background-position="top"}
 
@@ -105,44 +153,57 @@ knitr::include_graphics("image/war.jpg")
 
 ![](image/pc.jpg){fig-align="center"}
 
-# 🧑🏼‍🔧👨🏽‍🔧 Makers $\Leftrightarrow$ Tools $\Leftrightarrow$ 👨‍👩‍👧‍👧 Users
+## Data Science Tools
 
-## Food as a Tool
+-   :woman_technologist::man_technologist: Makers of data science tools: **Software Engineers**
+
+-   :woman_technologist::man_technologist: Users of data science tools: **Data Analysts**
+
+-   :woman_technologist::man_technologist: Makers + Users: **Data Scientists**
+
+## Makers $\rightarrow$ Food $\leftarrow$ Users
 
 ![](image/food.jpg){fig-align="center"}
 
-## Apps as a Tool
+## Makers $\rightarrow$ Apps $\leftarrow$ Users
 
 ![](image/apps.jpg){fig-align="center"}
 
-## Programming Languages as a Tool
+## Programming Languages as Tools
+
+<br>
 
 ![](image/langs.jpg){fig-align="center"}
 
-# 🧑🏽‍💻👨🏽‍💻Makers $\Leftrightarrow$ Tool $\Leftrightarrow$ 🧑🏽‍💻👨🏽‍💻Users
+## Data Science Profiles {background-color="#006266"}
 
-## Data Science Profiles {background-color="#34568B"}
-
+::: columns
+::: {.column width="50%"}
 -   Education
     -   Computer Science
     -   Statistics
     -   Research
     -   Any degree
+:::
+
+::: {.column width="50%"}
 -   Work as
-    -   Data analyst
-    -   Data engineer
-    -   Data scientist
-    -   Data consultant
+    -   Data Analyst
+    -   Data Engineer
+    -   Data Scientist
+    -   Data Consultant
+:::
+:::
 
 ## Deep Learning Curve {background-color="#000000"}
 
 ![](image/course.jpg){fig-align="center"}
 
-## Nalanda Academy Courses
+## Nalanda Academy Courses {visibility="hidden"}
 
 ![](image/poster.jpeg){fig-align="center"}
 
-------------------------------------------------------------------------
+## Courses {visibility="hidden"}
 
 ::: columns
 ::: {.column width="70%"}
@@ -163,10 +224,8 @@ knitr::include_graphics("image/war.jpg")
 :::
 :::
 
-## 😀 Thank you!
+## :smile: Thank you!
 
-What questions do you have?
+Please ask your questions
 
-```{r cat-img, out.width="40%"}
-knitr::include_graphics("image/cat.gif")
-```
+![](image/cat.gif)
