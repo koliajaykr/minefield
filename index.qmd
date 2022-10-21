@@ -8,6 +8,7 @@ format:
     incremental: true
     transition: slide
     chalkboard: false
+    slide-number: true
     #logo: "image/logo.png"
     title-slide-attributes: 
       data-background-image: image/cover.jpg
@@ -17,17 +18,19 @@ editor: visual
 from: markdown+emoji
 ---
 
-## Jai Bhim! :blush:
+## Jai Bhim! :slightly_smiling_face:
 
 ::: columns
 ::: {.column width="55%"}
 <br> <br>
 
-:envelope_with_arrow: ajayk.nalanda\@gmail.com
+{{< fa brands twitter >}} [ajay_kolii](https://twitter.com/ajay_kolii)
 
-:globe_with_meridians: <https://koliajay.netlify.app/>
+{{< fa envelope >}} ajayk.nalanda@gmail.com
 
-:classical_building: [School of Data Science](https://www.digitalnalanda.com/course/school-of-data-science), Nalanda Academy - Wardha
+{{< fa link >}} [https://koliajay.netlify.app/](https://koliajay.netlify.app/)
+
+{{< fa briefcase >}} [School of Data Science, Nalanda Academy - Wardha](https://www.digitalnalanda.com/course/school-of-data-science)
 :::
 
 ::: {.column width="45%"}
@@ -116,7 +119,7 @@ knitr::include_graphics("image/war.jpg")
 :::
 :::
 
-## Research Profiles {background-color="#34568B"}
+## Research Profiles {background-color="#00589b"}
 
 ::: columns
 ::: {.column width="50%"}
@@ -159,7 +162,9 @@ knitr::include_graphics("image/war.jpg")
 
 -   :woman_technologist::man_technologist: Users of data science tools: **Data Analysts**
 
--   :woman_technologist::man_technologist: Makers + Users: **Data Scientists**
+-   :woman_technologist::man_technologist: Makers + Users: **Data Scientists**[^1]
+
+[^1]: Watch YouTube Video "Becoming a Data Scientist"; Link: <https://youtu.be/I7IW9Z3h20Y>
 
 ## Makers $\rightarrow$ Food $\leftarrow$ Users
 
@@ -169,13 +174,13 @@ knitr::include_graphics("image/war.jpg")
 
 ![](image/apps.jpg){fig-align="center"}
 
-## Programming Languages as Tools
+## Programming Languages as Tools[^2]
 
-<br>
+[^2]: Top computer languages; Source: Statistics Times; Link: <https://statisticstimes.com/tech/top-computer-languages.php>
 
 ![](image/langs.jpg){fig-align="center"}
 
-## Data Science Profiles {background-color="#006266"}
+## Data Science Profiles {background-color="#00589b"}
 
 ::: columns
 ::: {.column width="50%"}
